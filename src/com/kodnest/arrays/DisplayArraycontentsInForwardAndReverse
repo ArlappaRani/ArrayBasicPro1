@@ -1,0 +1,13 @@
+5) Write a java program to take array length as input from user and 
+create an integer array Take elements from user and store elements 
+into the array Call a method printArray() present in PrintArray class 
+which will print the array in forward direction and in reverse 
+direction. 
+Note: Use each loop for printing in forward direction.
+
+Explanation:
+first creating the integer type of array taking the length from the user
+After that storing the elements in an array
+Calling the method of printArray() present in PrintArrayElements class
+printing the array in forward direction using for each loop
+printing the reverse direction using traditional for loop
